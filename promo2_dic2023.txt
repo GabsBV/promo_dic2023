@@ -1,0 +1,10 @@
+<Inicio>
+Realizar segmentación clientes in ('Online','Fisico','Mixto')
+Ejecutar validación para entrega de promociones
+     Regla_1: 'Torneo_Slots' <> ('Mixto')
+     Regla_2: 'Torneo_Mesas' <> ('Mixto')
+     Regla_3: 'FreeSpins' <> ('Online')
+     Regla_4: 'FreeBets' <> ('Online')
+     //Regla_5: 'Bono' <> ('Online')
+Asignar promociones a cliente
+<FIN>
