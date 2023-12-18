@@ -5,6 +5,6 @@ Ejecutar validación para entrega de promociones
      Regla_2: 'Torneo_Mesas' <> ('Mixto')
      Regla_3: 'FreeSpins' <> ('Online')
      Regla_4: 'FreeBets' <> ('Online')
-     //Regla_5: 'Bono' <> ('Online')
+     Regla_5: 'Bono Cash' <> ('Online')
 Asignar promociones a cliente
 <FIN>
